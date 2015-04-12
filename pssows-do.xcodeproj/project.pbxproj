@@ -412,6 +412,7 @@
 				9FA5630D1A29D7B600EC8B65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FA5630E1A29D7B600EC8B65 /* Build configuration list for PBXNativeTarget "pssows-doTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				9FA563101A29D7B600EC8B65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
